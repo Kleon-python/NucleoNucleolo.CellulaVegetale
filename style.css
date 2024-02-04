@@ -1,0 +1,23 @@
+
+.immagine {
+    width: 340px;
+    position: absolute;
+    left: 600px;
+    right: 0px;
+    top: 120px;
+    z-index: 1;
+    
+}
+.NucleoBlu {
+    color: blue;
+    font-weight: bold;
+}
+
+.descrizione {
+    white-space: pre-line;
+    max-width: 37em; 
+}
+.Necleo, .descrizione, .NucleoBlu {
+    font-family: Arial;
+}
+
